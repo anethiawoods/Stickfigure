@@ -1,4 +1,5 @@
 body {
-    background-color: #1a675d;
+  background-image: url(/images/bg-image.jpg);
+  /* background-color: #1a675d; */
     font-family:sans-serif;
   };
